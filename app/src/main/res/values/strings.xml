@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Fuels</string>
+    <string name="app_name">Combustíveis</string>
+    <string name="logo">Álcool ou Gasolina</string>
+    <string name="text1">Saiba a melhor opção de abastecimento do seu veículo!</string>
+    <string name="hint1">Preço álcool (R$/L) ex: 1.90</string>
+    <string name="hint2">Preço gasolina (R$/L) ex: 2.60</string>
+    <string name="button">Calcular</string>
+    <string name="text2">Resultado</string>
 </resources>

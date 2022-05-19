@@ -10,8 +10,8 @@ a combustão (álcool ou gasolina).
 </div>
 <br>
 
-| | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="tela inicial" src="./screenshots/fuel1.jpeg"> | <img width="1604" alt="álcool é mais vantajoso" src="./screenshots/fuel2.jpeg">|<img width="1604" alt="gasolina é mais vantajoso" src="./screenshots/fuel3.jpeg">|<img width="1604" alt="não há vantajoso" src="./screenshots/fuel4.jpeg"> |
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="tela inicial" src="./screenshots/fuel1.jpeg"> | <img width="1604" alt="Melhor utilizar Álcool";" src="./screenshots/fuel2.jpeg">|<img width="1604" alt="Melhor utilizar Gasolina" src="./screenshots/fuel3.jpeg">|
 <br>
 

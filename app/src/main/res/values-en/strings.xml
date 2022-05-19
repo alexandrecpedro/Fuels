@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fuels</string>
+    <string name="logo">Alcohol or Gasoline</string>
+    <string name="text1">"Find out the best option for fueling your vehicle! "</string>
+    <string name="hint1">Alcohol price (US$/gal) ex: 1.90</string>
+    <string name="hint2">Gasoline price (US$/gal) ex: 2.60</string>
+    <string name="button">Calculate</string>
+    <string name="text2">Result</string>
+</resources>
