@@ -12,6 +12,6 @@ a combustão (álcool ou gasolina).
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" height="300" alt="tela inicial" src="./screenshots/fuel1.jpeg"> | <img width="1604" height="300" alt="Melhor utilizar Álcool" src="./screenshots/fuel2.jpeg">|<img width="1604" height="300" alt="Melhor utilizar Gasolina" src="./screenshots/fuel3.jpeg">|
+|<img width="1604" alt="tela inicial" src="./screenshots/fuel1.jpeg"> | <img width="1604" alt="Melhor utilizar Álcool" src="./screenshots/fuel2.jpeg">|<img width="1604" alt="Melhor utilizar Gasolina" src="./screenshots/fuel3.jpeg">|
 <br>
 
